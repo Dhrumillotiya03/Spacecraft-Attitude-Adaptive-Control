@@ -1,4 +1,3 @@
-# Spacecraft-Attitude-Adaptive-Control
 # Spacecraft Attitude Control: From PD Stabilization to Adaptive Backstepping
 
 Simulation and controller design for rigid-body spacecraft attitude tracking, progressing
